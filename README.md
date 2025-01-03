@@ -1,4 +1,4 @@
-# Credit Cards Database Queries
+# Credit Cards Database Analysis Using SQL
 
 This document contains SQL queries to analyze and manipulate data in a credit cards database (`credit_cardsDB`). Below is the schema for the tables and the respective queries answering specific business questions.
 
