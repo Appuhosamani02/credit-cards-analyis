@@ -203,4 +203,16 @@ FROM (
 		ON cd.client_num = cc.client_num
  ) T
  WHERE highest_ur <= 3;
+```
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Appuhosamani02/credit-cards-analysis.git
+   ```
+2. Import the SQL scripts into your database system.
+3. Run the queries to analyze the data and generate insights.
+
+**Author**: Appu
+
 
